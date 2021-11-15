@@ -156,7 +156,7 @@ class Form extends Component {
         }
 
         if (flag) {
-            this.setState({ message: <div className="alert alert-danger" >Error!! Filled the form properly.</div > })
+            this.setState({ message: <div className="alert alert-danger" >Error! Please fill all the details.</div > })
         }
         else {
             // code for the payment processs
