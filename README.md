@@ -1,5 +1,7 @@
 # Subscription Form
 
+Production server is running [here](https://flexmoney-form.herokuapp.com/) on free cloud hosting platform `heroku`.
+
 To run the app in the development mode:
 ```
 cd payment-form
